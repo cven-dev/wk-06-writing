@@ -23,12 +23,7 @@ editor: visual
 
 Scholarly articles require much more detail in their front matter than simply a title and an author. Quarto provides a rich set of YAML metadata keys to describe these details. You can copy & paste from this example to your own report.
 
-## Task 1: Front Matter
-
--   Replace the values under author for name, orcid, email, and affiliation with your own
--   Render the document to see the changes
-
-## Task 2: Citations
+## Task: Citations
 
 1.  Add the citation key for the paper "'My flight arrives at 5 am, can you pick me up?': The gatekeeping burden of the african academic" as an in-text reference to the sentence below
 
@@ -40,4 +35,4 @@ Inequality underpins waste management systems, structuring who can or cannot acc
 
 ## Bibliographies
 
-Your folder already contains a `references.bib` file. One way of creating and adding to this file is by using the RStudio Visual Editor mode. Another way is by exporting a collection in Zotero reference management tool. Part of your homework will be to setup Zotero. For your literature research, you will then use Zotero and in your final report use an exported `.bib` file to cite references in your report: <https://rbtl-fs25.github.io/website/project>.
+This folder already contains a `references.bib` file. One way of creating and adding to this file is by using the RStudio Visual Editor mode. Another way is by exporting a collection in Zotero reference management tool.
